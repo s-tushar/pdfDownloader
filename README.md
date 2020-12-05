@@ -4,6 +4,7 @@ Provide it a csv file with link to the pdf and name with which you want to save 
 # How to Use
 Give the absolute path to the input CSV file to the "inputCsvPath" variable.
 Give the absolute path to the Folder to the "outputFolderPath" variable in which you want the files to be downloaded. 
+then run the pdfdownloader.py 
 
 # Results
 A folder named with timestamp at which it was created will be created inside the folder you provided. Your files will be inside this newly created folder. 
